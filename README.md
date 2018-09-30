@@ -1,7 +1,7 @@
 # Data Institute 2018
 For students of https://projects.propublica.org/graphics/ida-propublica-data-institute
 
-Here are all of the materials we used to teach the 2018 Data Institute: slides, exercises, links, and homework. This is not an online course and doesn’t have all the context or instruction to be a standalone class. 
+Here are all of the materials we used to teach the 2018 Data Institute: slides, exercises, links, and homework. This is not an online course and doesn’t have all the context or instruction to be a standalone class.
 
 Want to use our slides? Our teaching materials fall under the [same Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/) we use across our site. [Get more details here.](https://www.propublica.org/steal-our-stories/)
 
@@ -26,7 +26,7 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 </ul>
 
 ####MACS
-Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter: 
+Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter:
 
 - `xcode-select --install`
 - `python -V`
@@ -43,6 +43,23 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 <hr/>
 
 ## Day 1
+
+### Intro to Data Journalism
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.jpg"></a>
+
+### Intro to Spreadsheets
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.jpg"></a>
+
+### Finding & Loading Data
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/finding-loading.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/finding-loading.jpg"></a>
+
+### Best Practices
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
+
+### Advanced Spreadsheets
+
+<a href="https://ire.org/media/uploads/files/datalibrary/practice_datasets/sql/exercises/accdebtqa.pdf">Deadbeat parents exercise</a>
+
 
 ## Day 2
 
@@ -92,7 +109,7 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 
 ### Basic CSS
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
-   
+
 **In-Class Demos**
 <ul>
   <li>How to create your first CSS file</li>
@@ -136,7 +153,7 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
   <li>How to write your own CSS Class</li>
   <li>How CSS deals with conflict</li>
 </ul>
-       
+
 ### Homework
 
 <ul>
