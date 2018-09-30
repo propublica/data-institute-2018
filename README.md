@@ -25,7 +25,7 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
   <li>Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)</li>
 </ul>
 
-####MACS
+#### Macs
 Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter: 
 
 - `xcode-select --install`
@@ -36,7 +36,7 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 - `pip install --user BeautifulSoup`
 - `pip install --user Requests`
 
-**WINDOWS**
+**Windows**
 - Download [Cygwin](https://cygwin.com/install.html)
 - When you get to this step, ask for Sisi
 
