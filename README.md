@@ -56,13 +56,13 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 ### Day 4
 
 #### Intro to Code
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img style="width:300px;" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
 
 #### How Websites Work
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img style="width:300px;" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
 
 #### HTML
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img style="width:300px;" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
 
 **Exercises**
 <ul>
@@ -71,7 +71,7 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 </ul>
 
 #### Basic CSS
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img style="width:300px;" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
    
 **In-Class Demos**
 <ul>
