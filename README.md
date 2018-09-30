@@ -25,15 +25,16 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
   <li>Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)</li>
 </ul>
 
-**MACS**
+####MACS
 Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter: 
 
 - `xcode-select --install`
 - `python -V`
   - Your Terminal should say something like "Python 2.7.13". Your last two digits might be different, that's okay. If you get something that Python 3, which looks like: "Python 3.X.XX" let Sisi know.
 - `sudo easy_install pip`
-- `sudo pip install BeautifulSoup`
-- `sudo pip install Requests`
+  - This will ask you to put in your computer password. Go ahead, and quick warning: the cursor won't move, but trust that your computer is reading what you're typing in.
+- `pip install --user BeautifulSoup`
+- `pip install --user Requests`
 
 **WINDOWS**
 - Download [Cygwin](https://cygwin.com/install.html)
