@@ -9,18 +9,20 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 
 ### Welcome Reception & Install Party
 
-*ACCOUNTS*
+**ACCOUNTS**
 Github.com
 (Make sure to confirm your e-mail address)
 Google.com
 
-SOFTWARE
-Google Chrome
-Slack (Mac, Windows)
-Sublime Text (Mac, Windows)
-Github Desktop App
-Tabula (Mac, Windows)
-Open Refine (Mac, Windows)
+**SOFTWARE**
+<ul>
+  <li><a href="https://www.google.com/chrome/browser/desktop/">Google Chrome</a></li>
+  <li>Slack (<a href="https://itunes.apple.com/app/slack/id803453959?ls=1&amp;mt=12">Mac</a>, <a href="https://slack.com/ssb/download-win">Windows</a>)</li>
+  <li>Sublime Text (<a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg">Mac</a>, <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114%20x64%20Setup.exe">Windows</a>)</li>
+  <li><a href="https://desktop.github.com/">Github Desktop App</a></li>
+  <li>Tabula (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-mac-1.0.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-win-1.0.1.zip">Windows</a>)</li>
+  <li>Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)</li>
+</ul>
 
 MACS
 Open your Terminal app (comes with all Macs) and paste this exact command into the window and press enter:
