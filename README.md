@@ -26,19 +26,14 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 </ul>
 
 **MACS**
-<li>Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste this exact command into the window and press enter:
-  - `xcode-select --install`
-  <ul>
-    <li></li>
-    <li>
-      `python -V`
-      <ul><li>Your Terminal should say something like "Python 2.7.13". Your last two digits might be different, that's okay. If you get something that Python 3, which looks like: "Python 3.X.XX" let Sisi know.</li></ul>
-    </li>
-    <li>`sudo easy_install pip`</li>
-    <li>`sudo pip install BeautifulSoup`</li>
-    <li>`sudo pip install Requests`</li>
-  </ul>
-</li>
+Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter: 
+
+- `xcode-select --install`
+- `python -V`
+  - Your Terminal should say something like "Python 2.7.13". Your last two digits might be different, that's okay. If you get something that Python 3, which looks like: "Python 3.X.XX" let Sisi know.
+- `sudo easy_install pip`
+- `sudo pip install BeautifulSoup`
+- `sudo pip install Requests`
 
 **WINDOWS**
 - Download [Cygwin](https://cygwin.com/install.html)
@@ -61,13 +56,13 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 ### Day 4
 
 #### Intro to Code
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img style="width:300px;" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
 
 #### How Websites Work
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img style="width:300px;" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
 
 #### HTML
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img style="width:300px;" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
 
 **Exercises**
 <ul>
@@ -76,7 +71,7 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 </ul>
 
 #### Basic CSS
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img style="width:300px;" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
    
 **In-Class Demos**
 <ul>
