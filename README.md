@@ -10,9 +10,10 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 ### Welcome Reception & Install Party
 
 **ACCOUNTS**
-Github.com
-(Make sure to confirm your e-mail address)
-Google.com
+<ul>
+  <li><a href="https://github.com/join?source=header-home">Github.com</a><br>(Make sure to confirm your e-mail address)</li>
+  <li><a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a></li>
+</ul>
 
 **SOFTWARE**
 <ul>
@@ -24,18 +25,23 @@ Google.com
   <li>Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)</li>
 </ul>
 
-MACS
-Open your Terminal app (comes with all Macs) and paste this exact command into the window and press enter:
-xcode-select --install
- python -V
-Your Terminal should say something like "Python 2.7.13". Your last two digits might be different, that's okay. If you get something that Python 3, which looks like: "Python 3.X.XX" let Sisi know.
-sudo easy_install pip
-sudo pip install BeautifulSoup
-sudo pip install Requests
+**MACS**
+<li>Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste this exact command into the window and press enter:
+  <ul>
+    <li>`xcode-select --install`</li>
+    <li>
+      `python -V`
+      <ul><li>Your Terminal should say something like "Python 2.7.13". Your last two digits might be different, that's okay. If you get something that Python 3, which looks like: "Python 3.X.XX" let Sisi know.</li></ul>
+    </li>
+    <li>`sudo easy_install pip`</li>
+    <li>`sudo pip install BeautifulSoup`</li>
+    <li>`sudo pip install Requests`</li>
+  </ul>
+</li>
 
-WINDOWS
-Download Cygwin
-When you get to this step, ask for Sisi
+**WINDOWS**
+- Download [Cygwin](https://cygwin.com/install.html)
+- When you get to this step, ask for Sisi
 
 
 
