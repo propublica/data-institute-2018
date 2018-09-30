@@ -53,11 +53,35 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 ### Intro to Code
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
 
+**In-Class Demos**
+- What coding languages have you heard of?
+- Using the web inspector
+
 ### How Websites Work
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
 
+**In-Class Demos**
+- How the Internet passes websites around
+- What HTML, CSS and Javascript contribute to a webpage
+
+**Exercises**
+- Drawing a Website
+
 ### HTML
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
+
+**In-Class Demos**
+- How to create your first HTML file
+- Shortcut to the basic HTML template
+- How to use:
+  - `<h1>`
+  - `<h2>`
+  - `<h3>`
+  - `<p>`
+  - `<img>`
+  - `<a>`
+  - `<ul>`
+  - `<!-- Comments -->`
 
 **Exercises**
 <ul>
