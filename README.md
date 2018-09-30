@@ -47,23 +47,38 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 
 ### Day 1
 
+<hr/>
 
 ### Day 2
 
+<hr/>
 
 ### Day 3
 
+<hr/>
 
 ### Day 4
 
+<hr/>
+
 ### Day 5
+
+<hr/>
 
 ### Day 6
 
+<hr/>
+
 ### Day 7
+
+<hr/>
 
 ### Day 8
 
+<hr/>
+
 ### Day 9
+
+<hr/>
 
 ### Day 10
