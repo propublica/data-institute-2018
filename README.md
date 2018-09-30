@@ -5,9 +5,9 @@ Here are all of the materials we used to teach the 2018 Data Institute: slides, 
 
 Want to use our slides? Our teaching materials fall under the [same Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/) we use across our site. [Get more details here.](https://www.propublica.org/steal-our-stories/)
 
-## Curriculum
+# Curriculum
 
-### Welcome Reception & Install Party
+## Welcome Reception & Install Party
 
 **ACCOUNTS**
 <ul>
@@ -41,27 +41,22 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 
 <hr/>
 
-### Day 1
+## Day 1
 
-<hr/>
+## Day 2
 
-### Day 2
+## Day 3
 
-<hr/>
 
-### Day 3
+## Day 4
 
-<hr/>
-
-### Day 4
-
-#### Intro to Code
+### Intro to Code
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
 
-#### How Websites Work
+### How Websites Work
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
 
-#### HTML
+### HTML
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
 
 **Exercises**
@@ -70,7 +65,7 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
   <li>Can you fix this <a href="https://codepen.io/sisiwei/pen/PNvaeB?editors=1000">broken code</a>? </li>
 </ul>
 
-#### Basic CSS
+### Basic CSS
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
    
 **In-Class Demos**
@@ -109,7 +104,7 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
   </li>
 </ul>
 
-#### CSS Classes
+### CSS Classes
 
 **In-Class Demos**
 <ul>
@@ -117,33 +112,26 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
   <li>How CSS deals with conflict</li>
 </ul>
        
-#### Homework
+### Homework
 
 <ul>
   <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
   <li>Using HTML, CSS, and the information you gathered over the weekend, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, just make sure to get all of your information on the page and formatted using HTML.</li>
 </ul>
 
-<hr/>
+## Day 5
 
-### Day 5
 
-<hr/>
+## Day 6
 
-### Day 6
 
-<hr/>
+## Day 7
 
-### Day 7
 
-<hr/>
+## Day 8
 
-### Day 8
 
-<hr/>
+## Day 9
 
-### Day 9
 
-<hr/>
-
-### Day 10
+## Day 10
