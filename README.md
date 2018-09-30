@@ -59,131 +59,74 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 
 ### Day 4
 
-      <div class="container cf">
-        <h4>Intro to Code</h4>
-        <div class="presentation">
-          <a href="/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><div class="article-inline-image" style=""><img src="/graphics/images/data-institute/presentations/intro-to-code.jpg"><p class="photo-caption"></p></div></a>
-        </div>
-        <div class="exercises">
-          <h5>In-Class Demos</h5>
-          <ul>
-            <li>What coding languages have you heard of?</li>
-            <li>Using the web inspector</li>
-          </ul>
-        </div>
-      </div>
+#### Intro to Code
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
 
-      <div class="container cf">
-        <h4>How Websites Work</h4>
-        <div class="presentation">
-          <a href="/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><div class="article-inline-image" style=""><img src="/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"><p class="photo-caption"></p></div></a>
-        </div>
-        <div class="exercises">
-          <h5>In-Class Demos</h5>
-          <ul>
-            <li>How the Internet passes websites around</li>
-            <li>What HTML, CSS and Javascript contribute to a webpage</li>
-          </ul>
-          <h5>Exercises</h5>
-          <ul>
-            <li>Drawing a Website</li>
-          </ul>
-        </div>
-      </div>
+#### How Websites Work
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
 
-      <div class="container cf">
-        <h4>HTML</h4>
-        <div class="presentation">
-          <a href="/graphics/images/data-institute/presentations/2017/html.pdf"><div class="article-inline-image" style=""><img src="/graphics/images/data-institute/presentations/html.jpg"><p class="photo-caption"></p></div></a>
-        </div>
-        <div class="exercises">
-          <h5>In-Class Demos</h5>
-          <ul>
-            <li>How to create your first HTML file</li>
-            <li>Shortcut to the basic HTML template</li>
-            <li>How to use:
-              <ul class="code">
-                <li><span>&lt;h1&gt;</span></li>
-                <li><span>&lt;h2&gt;</span></li>
-                <li><span>&lt;h3&gt;</span></li>
-                <li><span>&lt;p&gt;</span></li>
-                <li><span>&lt;img&gt;</span></li>
-                <li><span>&lt;a&gt;</span></li>
-                <li><span>&lt;ul&gt;</span></li>
-                <li><span>&lt;!-- Comments --&gt;</span></li>
-              </ul>
-            </li>
-          </ul>
-          <h5>Exercises</h5>
-          <ul>
-            <li>Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.</li>
-            <li>Can you fix this <a href="https://codepen.io/sisiwei/pen/PNvaeB?editors=1000">broken code</a>? </li>
-          </ul>
-        </div>
-      </div>
+#### HTML
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.jpg"></a>
 
-      <div class="container cf">
-        <h4>Basic CSS</h4>
-        <div class="presentation">
-          <a href="/graphics/images/data-institute/presentations/2017/css.pdf"><div class="article-inline-image" style=""><img src="/graphics/images/data-institute/presentations/2017/css.jpg"><p class="photo-caption"></p></div></a>
-        </div>
-        <div class="exercises">
-          <h5>In-Class Demos</h5>
-          <ul>
-            <li>How to create your first CSS file</li>
-            <li>Shortcut to linking to your CSS file</li>
-            <li>How CSS styles work</li>
-          </ul>
-          <h5>Exercises</h5>
-          <ul>
-            <li>Using your practice HTML file from before, add CSS styles to it such you change the:
-              <ul>
-                <li>color</li>
-                <li>font-family</li>
-                <li>font-size</li>
-              </ul>
-            </li>
-            <li>On your own, look up how to do the following in CSS, and add it to your HTML file as well:
-              <ul>
-                <li>underline text</li>
-                <li>bold text</li>
-                <li>italicize text</li>
-              </ul>
-            </li>
-            <li>Going back to the Supreme Court article you formatted earlier, do the following using CSS:
-              <ul>
-                <li>Make the main headline dark red.</li>
-                <li>Use the font family "Georgia" for the main headline and the subheadline.</li>
-                <li>Center the text of the main headline and the subheadline.</li>
-                <li>Give the paragraphs a line height of 19 pixels.</li>
-                <li>Remove the underline from the links.</li>
-                <li>Make the "Related articles" label all uppercase.</li>
-                <li>Bonus: Make an underline appear when you hover over a link.</li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-      </div>
+**Exercises**
+<ul>
+  <li>Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.</li>
+  <li>Can you fix this <a href="https://codepen.io/sisiwei/pen/PNvaeB?editors=1000">broken code</a>? </li>
+</ul>
 
-      <div class="container no-img cf">
-        <h4>CSS Classes</h4>
-        <div class="presentation">
-          <h5>In-Class Demos</h5>
-          <ul>
-            <li>How to write your own CSS Class</li>
-            <li>How CSS deals with conflict</li>
-          </ul>
-        </div>
-      </div>
+#### Basic CSS
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
+   
+**In-Class Demos**
+<ul>
+  <li>How to create your first CSS file</li>
+  <li>Shortcut to linking to your CSS file</li>
+  <li>How CSS styles work</li>
+</ul>
 
-      <div class="homework container cf">
-        <h4>Homework</h4>
-        <div class="exercises">
-          <ul>
-            <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
-            <li>Using HTML, CSS, and the information you gathered over the weekend, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, just make sure to get all of your information on the page and formatted using HTML.</li>
-          </ul>
-        </div>
+**Exercises**
+<ul>
+  <li>Using your practice HTML file from before, add CSS styles to it such you change the:
+    <ul>
+      <li>color</li>
+      <li>font-family</li>
+      <li>font-size</li>
+    </ul>
+  </li>
+  <li>On your own, look up how to do the following in CSS, and add it to your HTML file as well:
+    <ul>
+      <li>underline text</li>
+      <li>bold text</li>
+      <li>italicize text</li>
+    </ul>
+  </li>
+  <li>Going back to the Supreme Court article you formatted earlier, do the following using CSS:
+    <ul>
+      <li>Make the main headline dark red.</li>
+      <li>Use the font family "Georgia" for the main headline and the subheadline.</li>
+      <li>Center the text of the main headline and the subheadline.</li>
+      <li>Give the paragraphs a line height of 19 pixels.</li>
+      <li>Remove the underline from the links.</li>
+      <li>Make the "Related articles" label all uppercase.</li>
+      <li>Bonus: Make an underline appear when you hover over a link.</li>
+    </ul>
+  </li>
+</ul>
+
+#### CSS Classes
+
+**In-Class Demos**
+<ul>
+  <li>How to write your own CSS Class</li>
+  <li>How CSS deals with conflict</li>
+</ul>
+       
+#### Homework
+
+<ul>
+  <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
+  <li>Using HTML, CSS, and the information you gathered over the weekend, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, just make sure to get all of your information on the page and formatted using HTML.</li>
+</ul>
 
 <hr/>
 
