@@ -43,8 +43,7 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 - Download [Cygwin](https://cygwin.com/install.html)
 - When you get to this step, ask for Sisi
 
-
-
+<hr/>
 
 ### Day 1
 
