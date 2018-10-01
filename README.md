@@ -50,18 +50,58 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 ### Intro to Spreadsheets
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.jpg"></a>
 
+**Exercises**
+- Organizing information in rows & columns using [Senate data](https://www.senate.gov/general/committee_assignments/assignments.htm)
+- Learning how to sort with [Trump expenditures](https://docs.google.com/spreadsheets/d/1od86DSRi5kJPJfLpDRcSbPj2nJiRk4yJUIrfunjlK4Q/edit#gid=0)
+
 ### Finding & Loading Data
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/finding-loading.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/finding-loading.jpg"></a>
+
+**In-Class Demos**
+- Using Socrata to look at [3-1-1 calls from NYC](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
+- [Tabula](https://tabula.technology/)
+- Types of data (numeric, text, date)
+- Quirks of Excel (reformatting dates, dropping leading zeros)
+- Text files and types (csv, tab, fixed width, pipe)
+- Text delimiter (probably quotes, but maybe not)
+- Open your text file in a reader and examine it
 
 ### Best Practices
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
 
-### Advanced Spreadsheets
+**In-Class Demos**
+- Create a text document
+- Save a clean copy of your data
+- Keep track of your work
+- Describe your steps
+- Copy/paste functions
+- Screen grabs of dialogue boxes
 
-<a href="https://ire.org/media/uploads/files/datalibrary/practice_datasets/sql/exercises/accdebtqa.pdf">Deadbeat parents exercise</a>
+### Advanced Spreadsheets: String Functions
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.jpg"></a>
 
+**Exercises**
+- [Practice Data](https://drive.google.com/file/d/0Bw5Mt7QIQlsgc2tLdFlpQ2QwTXM/view)
+- Reformat
+- Split
+- Transpose
+
+### Homework
+- None! Enjoy the city!
 
 ## Day 2
+
+### Evaluating Data
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
+
+### Data Integrity
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.jpg"></a>
+
+### OpenRefine
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.jpg"></a>
+
+### Analyzing Data: One Variable
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.jpg"></a>
 
 ## Day 3
 
