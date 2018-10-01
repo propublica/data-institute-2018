@@ -268,10 +268,24 @@ Week 2:
 </ul>
 
 
+### Let's make a webpage!
+
+<p>
+<a target="_blank" href="http://lenagroeger.com/makeawebsite/"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/online_portfolio.jpg"></a>
+</p>
+
+**In-Class Demos**       
+<ul>
+  <li>Making a website</li>
+  <li>Getting your portfolio on the internet!</li>
+</ul>
+
+
+
 ### Homework
 <ul>
   <li>Using the principles we discussed today, redesign your résumé. Email the before and after version to <a href="mailto:data.institute@propublica.org">data.institute@propublica.org</a>.</li>
-  <li>Using everything you've learned about HTML & CSS, start laying out your portfolio.</li>
+  <li>Using everything you've learned about HTML & CSS, start laying out your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
 </ul>
 
 
