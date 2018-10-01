@@ -27,9 +27,7 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 </ul>
 
 **Macs**
-
-Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter:
-=======
+- Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter:
 - `xcode-select --install`
 - `python -V`
   - Your Terminal should say something like "Python 2.7.13". Your last two digits might be different, that's okay. If you get something that Python 3, which looks like: "Python 3.X.XX" let Sisi know.
