@@ -219,6 +219,53 @@ Week 2:
 
 ## Day 5
 
+### Intro to Design
+<a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html">
+  <img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/design_intro.jpg">
+</a>
+
+**Lecture **
+<ul>
+  <li>What's Design Anyways?</li>
+  <li>Design Principles: The Only 4 Rules You Gotta Know</li>
+  <li>Details: The Real Secret of Good Design</li>
+</ul>
+
+**Exercises **
+<ul>
+  <li>Align This!</li>
+  <li>Resume Redesign</li>
+</ul>
+
+
+### Type, Layout & Color
+<a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf?_ga=2.185063340.443218081.1538261640-498718227.1521486701"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
+
+**Lecture **
+<ul>
+  <li>Letter: The Many Faces of Type</li>
+  <li>Text: How to Deal with Words</li>
+  <li>The Grid: Putting the Pieces Together</li>
+  <li>Colors &amp; How to Pick 'Em </li>
+</ul>
+
+
+
+**Exercises **
+<ul>
+  <li>Name that Font!</li>
+  <li>Type Crimes</li>
+</ul>
+
+
+### Homework
+<ul>
+  <li>Using the principles we discussed today, redesign your résumé. Email the before and after version to <a href="mailto:data.institute@propublica.org">data.institute@propublica.org</a>.</li>
+  <li>Using everything you've learned about HTML & CSS, start laying out your portfolio.</li>
+</ul>
+
+
+
 
 ## Day 6
 
