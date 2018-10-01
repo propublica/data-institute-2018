@@ -12,7 +12,7 @@ Click to jump directly to:
 - [Install Party](#welcome-reception--install-party)
 
 Week 1:
-- [Day 1](#day-1): Intro to Data Journalism
+- [Day 1: Intro to Data Journalism, Spreadsheets, Best Practices](#day-1)
 - [Day 2](#day-2)
 - [Day 3](#day-3)
 - [Day 4](#day-4)
