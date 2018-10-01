@@ -7,6 +7,24 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 
 # Curriculum
 
+## Table of Contents
+Click to jump directly to:
+- [Install Party](#welcome-reception--install-party)
+
+Week 1:
+- [Day 1](#day-1)
+- [Day 2](#day-2)
+- [Day 3](#day-3)
+- [Day 4](#day-4)
+- [Day 5](#day-5)
+
+Week 2:
+- [Day 6](#day-6)
+- [Day 7](#day-7)
+- [Day 8](#day-8)
+- [Day 9](#day-9)
+- [Day 10](#day-10)
+
 ## Welcome Reception & Install Party
 
 **ACCOUNTS**
