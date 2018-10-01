@@ -224,14 +224,14 @@ Week 2:
   <img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/design_intro.jpg">
 </a>
 
-**Lecture **
+**Lecture**
 <ul>
   <li>What's Design Anyways?</li>
   <li>Design Principles: The Only 4 Rules You Gotta Know</li>
   <li>Details: The Real Secret of Good Design</li>
 </ul>
 
-**Exercises **
+**Exercises**
 <ul>
   <li>Align This!</li>
   <li>Resume Redesign</li>
@@ -241,7 +241,7 @@ Week 2:
 ### Type, Layout & Color
 <a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf?_ga=2.185063340.443218081.1538261640-498718227.1521486701"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
 
-**Lecture **
+**Lecture**
 <ul>
   <li>Letter: The Many Faces of Type</li>
   <li>Text: How to Deal with Words</li>
@@ -251,7 +251,7 @@ Week 2:
 
 
 
-**Exercises **
+**Exercises**
 <ul>
   <li>Name that Font!</li>
   <li>Type Crimes</li>
