@@ -284,7 +284,7 @@ Week 2:
 
 ### Homework
 <ul>
-  <li>Using the principles we discussed today, redesign your résumé. Email the before and after version to <a href="mailto:data.institute@propublica.org">data.institute@propublica.org</a>.</li>
+  <li>Using the principles we discussed today, redesign your résumé. Email the before and after version to <a href="mailto:lena.groeger@propublica.org">lena.groeger@propublica.org</a>.</li>
   <li>Using everything you've learned about HTML & CSS, start laying out your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
 </ul>
 
@@ -301,6 +301,42 @@ Week 2:
 
 ## Day 7
 ### Tuesday, Oct 9
+
+
+### Visualizing Data
+<p>
+  <a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/VisualizingData.pdf"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/DataViz_small.jpg"></a>
+</p>
+
+**Lecture**
+<ul>
+  <li>Lines</li>
+  <li>Bars</li>
+  <li>Scatterplots, Treemaps &amp; More!</li>
+</ul>
+
+
+### Let's Make Some Charts & Maps!
+
+<p>
+  <a href="https://www.datawrapper.de/"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
+  </a>
+</p>
+
+**In-Class Demos**  
+<ul>
+  <li>From data to charts in Google Sheets &amp; Data Wrapper</li>
+</ul>
+
+
+**Exercises**
+<ul>
+  <li>[Making Maps & Charts in Datawrapper!](https://lenagroeger.com/datawrapper/)</li>
+
+</ul>
+
+
+
 
 
 ## Day 8
