@@ -224,6 +224,7 @@ Week 2:
   <img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/design_intro.jpg">
 </a>
 
+
 **Lecture**
 <ul>
   <li>What's Design Anyways?</li>
@@ -264,6 +265,10 @@ Week 2:
   <li>Using everything you've learned about HTML & CSS, start laying out your portfolio.</li>
 </ul>
 
+
+
+<br></br>
+###📚 Weekend! 🎉
 
 
 
