@@ -16,15 +16,13 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 </ul>
 
 **SOFTWARE**
-<ul>
-  <li><a href="https://www.google.com/chrome/browser/desktop/">Google Chrome</a></li>
-  <li>Slack (<a href="https://itunes.apple.com/app/slack/id803453959?ls=1&amp;mt=12">Mac</a>, <a href="https://slack.com/ssb/download-win">Windows</a>)</li>
-  <li>Sublime Text (<a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg">Mac</a>, <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114%20x64%20Setup.exe">Windows</a>)</li>
-  <li><a href="https://desktop.github.com/">Github Desktop App</a></li>
-  <li>Tabula (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-mac-1.0.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-win-1.0.1.zip">Windows</a>)</li>
-  <li>Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)</li>
-    - If you're on a Mac, and you get the error that Google/Open Refine is damaged, follow these instructions.
-</ul>
+- <a href="https://www.google.com/chrome/browser/desktop/">Google Chrome</a>
+- Slack (<a href="https://itunes.apple.com/app/slack/id803453959?ls=1&amp;mt=12">Mac</a>, <a href="https://slack.com/ssb/download-win">Windows</a>)
+- Sublime Text (<a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg">Mac</a>, <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114%20x64%20Setup.exe">Windows</a>)
+- <a href="https://desktop.github.com/">Github Desktop App</a>
+- Tabula (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-mac-1.0.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-win-1.0.1.zip">Windows</a>)
+- Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)
+	- If you're on a Mac, and you get the error that Google/Open Refine is damaged, follow these instructions.
 
 **Macs**
 - Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter:
