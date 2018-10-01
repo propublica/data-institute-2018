@@ -248,7 +248,7 @@ Week 2:
 
 ### Type, Layout & Color
 <p>
-<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf" target="_blank"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf" target="_blank"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
 </p>
 
 **Lecture**
@@ -271,7 +271,7 @@ Week 2:
 ### Let's make a webpage!
 
 <p>
-<a target="_blank" href="http://lenagroeger.com/makeawebsite/"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/online_portfolio.jpg"></a>
+<a target="_blank" href="http://lenagroeger.com/makeawebsite/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/online_portfolio.jpg"></a>
 </p>
 
 **In-Class Demos**       
@@ -305,7 +305,7 @@ Week 2:
 
 ### Visualizing Data
 <p>
-  <a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/VisualizingData.pdf"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/DataViz_small.jpg"></a>
+  <a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/VisualizingData.pdf"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/DataViz_small.jpg"></a>
 </p>
 
 **Lecture**
@@ -319,7 +319,7 @@ Week 2:
 ### Let's Make Some Charts & Maps!
 
 <p>
-  <a href="https://www.datawrapper.de/"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
+  <a href="https://www.datawrapper.de/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
   </a>
 </p>
 
