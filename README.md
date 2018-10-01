@@ -58,7 +58,7 @@ Week 2:
 
 <hr/>
 
-## Day 1
+## Day 1: Monday, Oct 1
 
 ### Intro to Data Journalism
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.jpg"></a>
@@ -105,7 +105,7 @@ Week 2:
 ### Homework
 - None! Enjoy the city!
 
-## Day 2
+## Day 2: Tuesday, Oct 2
 
 ### Evaluating Data
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
@@ -119,10 +119,10 @@ Week 2:
 ### Analyzing Data: One Variable
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.jpg"></a>
 
-## Day 3
+## Day 3: Wednesday, Oct 3
 
 
-## Day 4
+## Day 4: Thursday, Oct 4
 
 ### Intro to Code
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
@@ -217,7 +217,7 @@ Week 2:
   <li>Using HTML, CSS, and the information you gathered over the weekend, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, just make sure to get all of your information on the page and formatted using HTML.</li>
 </ul>
 
-## Day 5
+## Day 5: Friday, Oct 5
 
 ### Intro to Design
 <a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html">
@@ -272,16 +272,16 @@ Week 2:
 
 
 
-## Day 6
+## Day 6: Monday, Oct 8
 
 
-## Day 7
+## Day 7: Tuesday, Oct 9
 
 
-## Day 8
+## Day 8: Wednesday, Oct 10
 
 
-## Day 9
+## Day 9: Thursday, Oct 11
 
 
-## Day 10
+## Day 10: Friday, Oct 12
