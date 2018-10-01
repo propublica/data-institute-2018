@@ -225,9 +225,11 @@ Week 2:
 ### Friday, Oct 5
 
 ### Intro to Design
-<a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html">
+<p>
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html" target="_blank">
   <img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/design_intro.jpg">
 </a>
+</p>
 
 
 **Lecture**
@@ -245,7 +247,9 @@ Week 2:
 
 
 ### Type, Layout & Color
-<a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf?_ga=2.185063340.443218081.1538261640-498718227.1521486701"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
+<p>
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf" target="_blank"><img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
+</p>
 
 **Lecture**
 <ul>
