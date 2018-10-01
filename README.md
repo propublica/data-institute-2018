@@ -268,7 +268,7 @@ Week 2:
 
 
 <br></br>
-###📚 Weekend! 🎉
+<h2>📚 Weekend! 🎉</h2>
 
 
 
