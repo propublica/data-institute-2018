@@ -331,8 +331,7 @@ Week 2:
 
 **Exercises**
 <ul>
-  <li>[Making Maps & Charts in Datawrapper!](https://lenagroeger.com/datawrapper/)</li>
-
+  <li><a href="https://lenagroeger.com/datawrapper/">Making Maps & Charts in Datawrapper!</a></li>
 </ul>
 
 
