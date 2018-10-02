@@ -274,9 +274,9 @@ Week 2:
 <a target="_blank" href="http://lenagroeger.com/makeawebsite/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/online_portfolio.jpg"></a>
 </p>
 
-**In-Class Demos**       
+**Exercises**       
 <ul>
-  <li>Making a website</li>
+  <li><a target="_blank" href="http://lenagroeger.com/makeawebsite/">Making a website</a></li>
   <li>Getting your portfolio on the internet!</li>
   <li>Using the GitHub Desktop app</li>
 </ul>
