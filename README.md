@@ -95,6 +95,9 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 ### Evaluating Data
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
 
+**Exercises**
+- [Fairfax Arrests](https://www.strongspace.com/shared/u6n69debcw)
+
 ### Data Integrity
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.jpg"></a>
 
