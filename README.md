@@ -278,6 +278,7 @@ Week 2:
 <ul>
   <li>Making a website</li>
   <li>Getting your portfolio on the internet!</li>
+  <li>Using the GitHub Desktop app</li>
 </ul>
 
 
