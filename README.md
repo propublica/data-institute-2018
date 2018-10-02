@@ -7,6 +7,24 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 
 # Curriculum
 
+## Table of Contents
+Click to jump directly to:
+- [Install Party](#welcome-reception--install-party)
+
+Week 1:
+- [Day 1: Intro to Data Journalism, Spreadsheets, Best Practices](#day-1)
+- [Day 2](#day-2)
+- [Day 3](#day-3)
+- [Day 4](#day-4)
+- [Day 5](#day-5)
+
+Week 2:
+- [Day 6](#day-6)
+- [Day 7](#day-7)
+- [Day 8](#day-8)
+- [Day 9](#day-9)
+- [Day 10](#day-10)
+
 ## Welcome Reception & Install Party
 
 **ACCOUNTS**
@@ -16,19 +34,16 @@ Want to use our slides? Our teaching materials fall under the [same Creative Com
 </ul>
 
 **SOFTWARE**
-<ul>
-  <li><a href="https://www.google.com/chrome/browser/desktop/">Google Chrome</a></li>
-  <li>Slack (<a href="https://itunes.apple.com/app/slack/id803453959?ls=1&amp;mt=12">Mac</a>, <a href="https://slack.com/ssb/download-win">Windows</a>)</li>
-  <li>Sublime Text (<a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg">Mac</a>, <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114%20x64%20Setup.exe">Windows</a>)</li>
-  <li><a href="https://desktop.github.com/">Github Desktop App</a></li>
-  <li>Tabula (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-mac-1.0.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-win-1.0.1.zip">Windows</a>)</li>
-  <li>Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)</li>
-</ul>
+- <a href="https://www.google.com/chrome/browser/desktop/">Google Chrome</a>
+- Slack (<a href="https://itunes.apple.com/app/slack/id803453959?ls=1&amp;mt=12">Mac</a>, <a href="https://slack.com/ssb/download-win">Windows</a>)
+- Sublime Text (<a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg">Mac</a>, <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114%20x64%20Setup.exe">Windows</a>)
+- <a href="https://desktop.github.com/">Github Desktop App</a>
+- Tabula (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-mac-1.0.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-win-1.0.1.zip">Windows</a>)
+- Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)
+	- If you're on a Mac, and you get the error that Google/Open Refine is damaged, [follow these instructions](open-refine-troubleshooting.md).
 
 **Macs**
-
-Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter:
-=======
+- Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter:
 - `xcode-select --install`
 - `python -V`
   - Your Terminal should say something like "Python 2.7.13". Your last two digits might be different, that's okay. If you get something that Python 3, which looks like: "Python 3.X.XX" let Sisi know.
@@ -44,6 +59,7 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 <hr/>
 
 ## Day 1
+### Monday, Oct 1
 
 ### Intro to Data Journalism
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.jpg"></a>
@@ -91,6 +107,7 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 - None! Enjoy the city!
 
 ## Day 2
+### Tuesday, Oct 2
 
 ### Evaluating Data
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
@@ -108,9 +125,11 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.jpg"></a>
 
 ## Day 3
+### Wednesday, Oct 3
 
 
 ## Day 4
+### Thursday, Oct 4
 
 ### Intro to Code
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
@@ -206,18 +225,130 @@ Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</
 </ul>
 
 ## Day 5
+### Friday, Oct 5
+
+### Intro to Design
+<p>
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html" target="_blank">
+  <img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/design_intro.jpg">
+</a>
+</p>
+
+
+**Lecture**
+<ul>
+  <li>What's Design Anyways?</li>
+  <li>Design Principles: The Only 4 Rules You Gotta Know</li>
+  <li>Details: The Real Secret of Good Design</li>
+</ul>
+
+**Exercises**
+<ul>
+  <li>Align This!</li>
+  <li>Resume Redesign</li>
+</ul>
+
+
+### Type, Layout & Color
+<p>
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/TypeLayoutColor.pdf" target="_blank"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/type.jpg"></a>
+</p>
+
+**Lecture**
+<ul>
+  <li>Letter: The Many Faces of Type</li>
+  <li>Text: How to Deal with Words</li>
+  <li>The Grid: Putting the Pieces Together</li>
+  <li>Colors &amp; How to Pick 'Em </li>
+</ul>
+
+
+
+**Exercises**
+<ul>
+  <li>Name that Font!</li>
+  <li>Type Crimes</li>
+</ul>
+
+
+### Let's make a webpage!
+
+<p>
+<a target="_blank" href="http://lenagroeger.com/makeawebsite/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/online_portfolio.jpg"></a>
+</p>
+
+**Exercises**       
+<ul>
+  <li><a target="_blank" href="http://lenagroeger.com/makeawebsite/">Making a website</a></li>
+  <li>Getting your portfolio on the internet!</li>
+  <li>Using the GitHub Desktop app</li>
+</ul>
+
+
+
+### Homework
+<ul>
+  <li>Using the principles we discussed today, redesign your résumé. Email the before and after version to <a href="mailto:lena.groeger@propublica.org">lena.groeger@propublica.org</a>.</li>
+  <li>Using everything you've learned about HTML & CSS, start laying out your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
+</ul>
+
+
+
+<br></br>
+<h2>📚 Weekend! 🎉</h2>
+
 
 
 ## Day 6
+### Monday, Oct 8
 
 
 ## Day 7
+### Tuesday, Oct 9
+
+
+### Visualizing Data
+<p>
+  <a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/VisualizingData.pdf"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/DataViz_small.jpg"></a>
+</p>
+
+**Lecture**
+<ul>
+  <li>Lines</li>
+  <li>Bars</li>
+  <li>Scatterplots, Treemaps &amp; More!</li>
+</ul>
+
+
+### Let's Make Some Charts & Maps!
+
+<p>
+  <a href="https://www.datawrapper.de/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
+  </a>
+</p>
+
+**In-Class Demos**  
+<ul>
+  <li>From data to charts in Google Sheets &amp; Data Wrapper</li>
+</ul>
+
+
+**Exercises**
+<ul>
+  <li><a href="https://lenagroeger.com/datawrapper/">Making Maps & Charts in Datawrapper!</a></li>
+</ul>
+
+
+
 
 
 ## Day 8
+### Wednesday, Oct 10
 
 
 ## Day 9
+### Thursday, Oct 11
 
 
 ## Day 10
+### Friday, Oct 12
