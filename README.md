@@ -127,6 +127,14 @@ Week 2:
 ## Day 3
 ### Wednesday, Oct 3
 
+### Mapping
+
+- [John Snow's map](https://www1.udel.edu/johnmack/frec682/cholera/)
+- [Census Geocoder](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form)
+
+**Exercises***
+- [Chicago homicides](http://web.archive.org/web/20170106233206/https://blog.apps.chicagotribune.com/2010/03/04/quickly-visualize-and-map-a-data-set-using-google-fusion-tables/) & [data](https://pp-projects-static.s3.amazonaws.com/graphics/images/data-institute/presentations/allhomicides.csv)
+- [Fusion Tables](https://fusiontables.google.com/DataSource?dsrcid=implicit&pli=1)
 
 ## Day 4
 ### Thursday, Oct 4
