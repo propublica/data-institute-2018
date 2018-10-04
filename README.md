@@ -13,8 +13,8 @@ Click to jump directly to:
 
 Week 1:
 - [Day 1: Intro to Data Journalism, Spreadsheets, Best Practices](#day-1)
-- [Day 2](#day-2)
-- [Day 3](#day-3)
+- [Day 2: Evaluating data, Open Refine, Analyzing One Variable](#day-2)
+- [Day 3: Intro to Mapping, Common Calculations in News, Analyzing Two Variables, Statistics](#day-3)
 - [Day 4](#day-4)
 - [Day 5](#day-5)
 
@@ -94,6 +94,8 @@ Week 2:
 - Copy/paste functions
 - Screen grabs of dialogue boxes
 
+### Advanced Spreadsheets: Pivot Tables
+
 ### Advanced Spreadsheets: String Functions
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.jpg"></a>
 
@@ -124,6 +126,11 @@ Week 2:
 ### Analyzing Data: One Variable
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.jpg"></a>
 
+### Advanced Spreadsheets: Combining Two Sheets with VLOOKUP
+
+### Homework
+- None! Enjoy the city!
+
 ## Day 3
 ### Wednesday, Oct 3
 
@@ -135,6 +142,25 @@ Week 2:
 **Exercises***
 - [Chicago homicides](http://web.archive.org/web/20170106233206/https://blog.apps.chicagotribune.com/2010/03/04/quickly-visualize-and-map-a-data-set-using-google-fusion-tables/) & [data](https://pp-projects-static.s3.amazonaws.com/graphics/images/data-institute/presentations/allhomicides.csv)
 - [Fusion Tables](https://fusiontables.google.com/DataSource?dsrcid=implicit&pli=1)
+
+### Analyzing Data, continued
+- [Histograms revisited](https://docs.google.com/presentation/d/1tUJgdvNVnAiX9GOa2t6_ZHL4iKB01jc6eOWEuP77ZiY/edit?usp=sharing)
+- Data Analysis Grab-Bag (slides TK)
+	- percent change
+	- percapita
+	- choosing your denominator wisely
+	- correlation
+- [Two Variables (slides)](https://drive.google.com/file/d/0Bw5Mt7QIQlsgMDl4UE9CZ1F0c1E/view?usp=sharing)
+	- scatterplots
+	- fitting a line
+- [Statistical Tests with M&Ms](https://drive.google.com/open?id=0Bw5Mt7QIQlsgaDgyODFlUjNTQ0E)
+- Resources
+	- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen
+	- [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
+	- [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
+	
+### Homework
+- None! Enjoy the city!
 
 ## Day 4
 ### Thursday, Oct 4
