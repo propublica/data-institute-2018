@@ -237,7 +237,7 @@ Week 2:
 
 ### Intro to Design
 <p>
-<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html" target="_blank">
+<a href="https://lenagroeger.com/design_workshop" target="_blank">
   <img src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/design_intro.jpg">
 </a>
 </p>
