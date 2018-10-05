@@ -247,7 +247,6 @@ Week 2:
 <ul>
   <li>What's Design Anyways?</li>
   <li>Design Principles: The Only 4 Rules You Gotta Know</li>
-  <li>Details: The Real Secret of Good Design</li>
 </ul>
 
 **Exercises**
