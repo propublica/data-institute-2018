@@ -228,8 +228,8 @@ Week 2:
 ### Homework
 
 <ul>
-  <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
-  <li>Using HTML, CSS, and the information you gathered over the weekend, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, just make sure to get all of your information on the page and formatted using HTML.</li>
+  <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="http://projects.propublica.org/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
+  <li>Using HTML and CSS, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, though you are free to get started designing. Just make sure to get all of your information on the page and formatted using HTML.</li>
 </ul>
 
 ## Day 5
