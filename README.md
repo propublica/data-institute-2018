@@ -13,10 +13,10 @@ Click to jump directly to:
 
 Week 1:
 - [Day 1: Intro to Data Journalism, Spreadsheets, Best Practices](#day-1)
-- [Day 2](#day-2)
-- [Day 3](#day-3)
-- [Day 4](#day-4)
-- [Day 5](#day-5)
+- [Day 2: Evaluating Data, Data Integrity, OpenRefine](#day-2)
+- [Day 3: Mapping & Geocoding](#day-3)
+- [Day 4: Intro to Code, How Websites Work, HTML, CSS](#day-4)
+- [Day 5: Intro to Design, Type, Layout & Color, Making a Webpage with Github](#day-5)
 
 Week 2:
 - [Day 6](#day-6)
