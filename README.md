@@ -146,7 +146,7 @@ Week 2:
 
 ### Analyzing Data, continued
 - [Histograms revisited](https://docs.google.com/presentation/d/1tUJgdvNVnAiX9GOa2t6_ZHL4iKB01jc6eOWEuP77ZiY/edit?usp=sharing)
-- Data Analysis Grab-Bag (slides TK)
+- [Data Analysis Grab-Bag (slides)](https://docs.google.com/presentation/d/1WD0NiqrmYQCMpkN7cCyIAbntjXEVqzmrjP7HQYOnVzY/edit?usp=sharing)
 	- percent change
 	- percapita
 	- choosing your denominator wisely
