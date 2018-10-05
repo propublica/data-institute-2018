@@ -323,7 +323,7 @@ Week 2:
 ### Homework
 <ul>
   <li>Using the principles we discussed today, redesign your résumé. Email the before and after version to <a href="mailto:lena.groeger@propublica.org">lena.groeger@propublica.org</a>.</li>
-  <li>Using everything you've learned about HTML & CSS, start laying out your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
+  <li>Using everything you've learned about design, type & layout, keep working on your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
 </ul>
 
 
