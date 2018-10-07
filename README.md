@@ -20,7 +20,7 @@ Week 1:
 
 
 Week 2:
-- [Day 6](#day-6)
+- [Day 6: Javascript and JQuery](#day-6)
 - [Day 7](#day-7)
 - [Day 8](#day-8)
 - [Day 9](#day-9)
@@ -336,10 +336,27 @@ Week 2:
 ## Day 6
 ### Monday, Oct 8
 
+### Javascript and JQuery
+
+**Review**  
+- Making a Website with Cards ♠️
+- Going over homework from last Thursday
+
+**In-Class Demos**  
+- How to setup Javascript
+- How to add jQuery, set it up, and use it ([A good place to review what we're learning](https://www.w3schools.com/jquery/jquery_intro.asp))
+- Ida Demo: [Starting with this HTML and CSS](https://codepen.io/sisiwei/pen/ZWdXGw), let's build the JS together.
+
+**Exercises**
+- Save [this code](https://codepen.io/sisiwei/pen/MmZvgy) onto your computer as separate HTML and CSS files. Create a new JS - file and link to it in your HTML.
+- Let's talk through logically, what needs to happen together.
+- Can you figure out how to build a before and after graphic using Javascript?
+
+**Homework**
+- Using your own photos, make your own before and after interactive. Then, publish your interactive on Github and add it to your portfolio.
 
 ## Day 7
 ### Tuesday, Oct 9
-
 
 ### Visualizing Data
 <p>
