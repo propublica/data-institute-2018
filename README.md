@@ -404,6 +404,7 @@ Week 2:
 </ul>
 
 **Exercises**
+
 We'll do the first two together, and you'll do the rest on your own.
 
 1. Write a function, named `copycat`, that simply prints out whatever input it's given.
