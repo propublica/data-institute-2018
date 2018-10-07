@@ -20,7 +20,7 @@ Week 1:
 
 
 Week 2:
-- [Day 6: Javascript and JQuery](#day-6)
+- [Day 6: Javascript, JQuery](#day-6)
 - [Day 7](#day-7)
 - [Day 8](#day-8)
 - [Day 9](#day-9)
@@ -390,16 +390,53 @@ Week 2:
 </ul>
 
 
-
-
-
 ## Day 8
 ### Wednesday, Oct 10
 
+### Web Scraping + Fundamentals of Programming
+**In-Class Demos**
+<ul>
+  <li>Introduction to Web Scraping</li>
+  <li>Thinking through how to scrape <a href="https://report.boonecountymo.org/mrcjava/servlet/SH01_MP.I00290s">this website</a></li>
+  <li>Download and unzip <a href="https://propublica.s3.amazonaws.com/projects/datainstitute/jailscrape.zip">this folder</a> into your "Code" folder on your computer</li>
+  <li>Fundamentals of Programming</li>
+  <li>Want to review later? Everything we're covering is <a href="https://first-web-scraper.readthedocs.io/en/latest/#act-2-python">laid out here</a>.</li>
+</ul>
+
+**Exercises**
+We'll do the first two together, and you'll do the rest on your own.
+
+<ol>
+  <li>Write a function, named `copycat`, that simply prints out whatever input it's given.</li>
+  <li>Write a function, named `addition`, that when given any three numbers, will print out the total sum of all three numbers.</li>
+  <li>Write a function, named `conversion`, that when given the Fahrenheit temperature, will print out what it is in Celsius. The formula you can use is: `C = (F – 32) * 5/9`</li>
+  <li>Write a function, named `find_the_max`, that given any three numbers, will print out the bigger number. Python has the native ability to do this, using the function `max()`. Do not use it. Instead write this from scratch.</li>
+  <li><strong>For an extra challenge:</strong> Given the following data, write a function, named `total_students`, that calculates how many total students are enrolled in Hogwarts.
+  <br>
+  `pupils_by_year = [["first years", 40], ["second years", 40], ["third years", 38], ["fourth years", 35], ["fifth years", 30], ["sixth years", 29], ["seventh years", 23]]`
+  </li>
+</ol>
+
+**Homework**
+<ul>
+  <li>Keep working on your portfolios and presentations.</li>
+  <li>See if you can write yourself any other functions. It'll help you gear up for tomorrow.</li>
+</ul>
 
 ## Day 9
 ### Thursday, Oct 11
 
+### Web Scraping, Continued
+
+**In-Class Demos**
+- Even more web scraping!
+
+**Homework**
+<ul>
+  <li>Prepare your presentation for tomorrow! Send a URL of the project you want to show to <a href="mailto:data.institute@propublica.org">data.institute@propublica.org</a> by tomorrow at 9:30am. Here are some questions to think about: </li>
+  <li><b>General</b>: What did you learn? What can you do now that you could not do 2 weeks ago? What were the biggest challenges/setbacks/frustrations you faced? The biggest surprises/succeses/most awesome things you accomplished? </li>
+  <li><b>Project specific</b>: Tell us what you’re presenting: your portfolio, a dataset you analyzed, a data visualization you created. What are you proud of? What are the next steps you want to take? What are your ultimate goals for the project?</li>
+</ul>
 
 ## Day 10
 ### Friday, Oct 12
