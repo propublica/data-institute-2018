@@ -341,6 +341,7 @@ Week 2:
 
 **Review**  
 - Making a Website with Cards ♠️
+- Reminder to send Lena your resumes!
 - Going over homework from last Thursday
 
 **In-Class Demos**  
