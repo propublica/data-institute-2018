@@ -32,6 +32,7 @@ Week 2:
 <ul>
   <li><a href="https://github.com/join?source=header-home">Github.com</a><br>(Make sure to confirm your e-mail address)</li>
   <li><a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a></li>
+  <li><a href="https://app.datawrapper.de/signin">Datawrapper</a></li>
 </ul>
 
 **SOFTWARE**
