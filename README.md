@@ -354,6 +354,7 @@ Week 2:
 
 **Homework**
 - Using your own photos, make your own before and after interactive. Then, publish your interactive on Github and add it to your portfolio.
+- Create an account for [Datawrapper](https://app.datawrapper.de/signin) before tomorrow.
 
 ## Day 7
 ### Tuesday, Oct 9
