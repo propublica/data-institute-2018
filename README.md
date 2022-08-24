@@ -345,7 +345,7 @@ Week 2:
 - Going over homework from last Thursday
 
 **In-Class Demos**  
-- How to setup Javascript
+- How to setup Javascript 
 - How to add jQuery, set it up, and use it ([A good place to review what we're learning](https://www.w3schools.com/jquery/jquery_intro.asp))
 - Ida Demo: [Starting with this HTML and CSS](https://codepen.io/sisiwei/pen/ZWdXGw), let's build the JS together.
 
@@ -357,6 +357,7 @@ Week 2:
 **Homework**
 - Using your own photos, make your own before and after interactive. Then, publish your interactive on Github and add it to your portfolio.
 - Create an account for [Datawrapper](https://app.datawrapper.de/signin) before tomorrow.
+- [Click here](https://www.scaler.com/topics/javascript/javascript-vs-jquery/) to know more about JavaScrpt and JQuery
 
 ## Day 7
 ### Tuesday, Oct 9
